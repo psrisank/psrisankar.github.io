@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: #8be9fd;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #ff79c6;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1785,12 +1785,12 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #f8f8f2;
+		color:#ff79c6;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #bd93f9;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1803,7 +1803,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #777;
+		color: #ff79c6;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #f8f8f2;
 		}
 
 	select {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #f8f8f2;
 					display: block;
 					padding: 0;
 				}
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #282a36;
-							color: #282a36 !important;
+							color: #f8f8f2 !important;
 						}
 
 					#header > nav ul li:first-child {
